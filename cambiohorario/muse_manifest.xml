@@ -1,0 +1,116 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.serviayuda.com" resolutions="1x" timestamp="1674824458070">
+  <folder name="css">
+    <file name="site_global.css" crc="4038565194"/>
+    <file name="pendiente2.css" crc="3844234216" ref="pendiente2"/>
+    <file name="nomq_pendiente2.css" crc="329168848" ref="pendiente2"/>
+    <file name="paso2.css" crc="500052722" ref="paso2"/>
+    <file name="nomq_paso2.css" crc="402136832" ref="paso2"/>
+    <file name="paso1-2.css" crc="231256897" ref="paso1-2"/>
+    <file name="nomq_paso1-2.css" crc="262615044" ref="paso1-2"/>
+    <file name="aceptacion.css" crc="279034441" ref="aceptacion"/>
+    <file name="nomq_aceptacion.css" crc="4121608543" ref="aceptacion"/>
+    <file name="index.css" crc="3959015725" ref="index"/>
+    <file name="nomq_index.css" crc="101099475" ref="index"/>
+    <file name="vacio.css" crc="80676626" ref="vacio"/>
+    <file name="nomq_vacio.css" crc="501128395" ref="vacio"/>
+    <file name="pendiente.css" crc="135829025" ref="pendiente"/>
+    <file name="nomq_pendiente.css" crc="3909422788" ref="pendiente"/>
+    <file name="paso2-1.css" crc="4055800516" ref="paso2-1"/>
+    <file name="nomq_paso2-1.css" crc="532511667" ref="paso2-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="museutils.js" crc="3939489907" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="whatinput.js" crc="86476730" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:aceptacion"/>
+    <file name="webpro.js" crc="3856315280" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u356.php" crc="3852699753" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="require.js" crc="4177726516" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="form-u754.php" crc="4273384228" ref="paso2"/>
+    <file name="form-u1001.php" crc="4228074973" ref="paso2-1"/>
+    <file name="form-u1097.php" crc="4080140831" ref="paso1-2"/>
+    <file name="form-u2063.php" crc="36673647" ref="pendiente"/>
+    <file name="form-u2273.php" crc="304791878" ref="vacio"/>
+    <file name="form-u2789.php" crc="4243994127" ref="pendiente2"/>
+    <file name="form-u3305.php" crc="459067382" ref="aceptacion"/>
+  </folder>
+  <folder name="images">
+    <file name="u284-4.png" crc="165465384" ref="index"/>
+    <file name="u430-4.png" crc="246813007" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index:aceptacion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u284-42.png" crc="165465384" ref="index"/>
+    <file name="u430-42.png" crc="176829873" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:paso2:paso2-1:paso1-2:pendiente:vacio:pendiente2:aceptacion"/>
+    <file name="u747-4.png" crc="165465384" ref="paso2"/>
+    <file name="u752-4.png" crc="4221804576" ref="paso2"/>
+    <file name="u747-42.png" crc="165465384" ref="paso2"/>
+    <file name="u752-42.png" crc="385552139" ref="paso2"/>
+    <file name="u996-4.png" crc="165465384" ref="paso2-1"/>
+    <file name="u989-5.png" crc="119470929" ref="paso2-1"/>
+    <file name="u1397-5.png" crc="383797126" ref="paso2-1"/>
+    <file name="u1403-4.png" crc="4039851655" ref="paso2-1"/>
+    <file name="u996-42.png" crc="165465384" ref="paso2-1"/>
+    <file name="u989-52.png" crc="4124199511" ref="paso2-1"/>
+    <file name="u1397-52.png" crc="43182745" ref="paso2-1"/>
+    <file name="u1403-42.png" crc="370444975" ref="paso2-1"/>
+    <file name="u1094-4.png" crc="165465384" ref="paso1-2"/>
+    <file name="u1093-4.png" crc="246813007" ref="paso1-2"/>
+    <file name="u1094-42.png" crc="165465384" ref="paso1-2"/>
+    <file name="u1093-42.png" crc="176829873" ref="paso1-2"/>
+    <file name="u2057-4.png" crc="165465384" ref="pendiente"/>
+    <file name="u2049-5.png" crc="4249552060" ref="pendiente"/>
+    <file name="u2189-7.png" crc="3801403210" ref="pendiente"/>
+    <file name="u2057-42.png" crc="165465384" ref="pendiente"/>
+    <file name="u2049-52.png" crc="3946223086" ref="pendiente"/>
+    <file name="u2189-72.png" crc="194635664" ref="pendiente"/>
+    <file name="u2270-4.png" crc="498071385" ref="vacio"/>
+    <file name="u2312-4.png" crc="246813007" ref="vacio"/>
+    <file name="u2270-42.png" crc="498071385" ref="vacio"/>
+    <file name="u2312-42.png" crc="176829873" ref="vacio"/>
+    <file name="u2812-4.png" crc="165465384" ref="pendiente2"/>
+    <file name="u2808-5.png" crc="110910288" ref="pendiente2"/>
+    <file name="u2811-7.png" crc="185647994" ref="pendiente2"/>
+    <file name="u2812-42.png" crc="165465384" ref="pendiente2"/>
+    <file name="u2808-52.png" crc="4144197901" ref="pendiente2"/>
+    <file name="u2811-72.png" crc="3965771079" ref="pendiente2"/>
+    <file name="u3184-4.png" crc="165465384" ref="aceptacion"/>
+    <file name="u3187-7.png" crc="3762534591" ref="aceptacion"/>
+    <file name="u3271-4.png" crc="4014512431" ref="aceptacion"/>
+    <file name="u3188-4.png" crc="4086196636" ref="aceptacion"/>
+    <file name="u3184-42.png" crc="165465384" ref="aceptacion"/>
+    <file name="u3187-72.png" crc="421859312" ref="aceptacion"/>
+    <file name="u3271-42.png" crc="3916556214" ref="aceptacion"/>
+    <file name="u3188-42.png" crc="325297586" ref="aceptacion"/>
+  </folder>
+  <file name="index.html" crc="171778763" seo="true" mt="1674772151885" redirect="true"/>
+  <file name="paso2.html" crc="31852352" seo="true" mt="1674685116155" redirect="true"/>
+  <file name="paso2-1.html" crc="209781777" seo="true" mt="1674685140490" redirect="true"/>
+  <file name="paso1-2.html" crc="403317407" seo="true" mt="1674769167039" redirect="true"/>
+  <file name="pendiente.html" crc="3992477876" seo="true" mt="1674685166538" redirect="true"/>
+  <file name="vacio.html" crc="4265513926" seo="true" mt="1674685186531" redirect="true"/>
+  <file name="pendiente2.html" crc="3986803862" seo="true" mt="1674685208197" redirect="true"/>
+  <file name="aceptacion.html" crc="4137562753" seo="true" mt="1674685268557" redirect="true"/>
+</manifest>

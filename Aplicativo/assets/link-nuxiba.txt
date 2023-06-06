@@ -1,0 +1,3 @@
+Por favor copie el siguiente link e ingreselo en el navegador "Internet Explorer"
+
+http://172.20.250.126/agentria/IndexSIP.aspx?remote=0

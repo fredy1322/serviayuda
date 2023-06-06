@@ -1,0 +1,617 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="serviayuda.com" resolutions="1x" timestamp="1582753705464">
+  <folder name="css">
+    <file name="site_global.css" crc="7901937"/>
+    <file name="master_e-p_g_-maestra.css" crc="185684280" ref="restriccioneshoymismoant:horariosrecant:medellinyaburra:aprovisionamientoant:rionegroycercanoant"/>
+    <file name="master_ro.css" crc="3824530138" ref="horariosocc:novedadesocc:aprovocc:credycontadoocc"/>
+    <file name="master_roriente.css" crc="3824530138" ref="nrecolecori:aprovori:rhorariosori"/>
+    <file name="master_eje.css" crc="3824530138" ref="novedadeseje:salidaeje:credyconteje:trazaeje:valoreseje"/>
+    <file name="master_costa.css" crc="3824530138" ref="altoriesgo:valorecosta:creditoycontasocosta:trazacosta:novedadescosta"/>
+    <file name="master_ra.css" crc="3824530138" ref="restriccioneshoymismoant:horariosrecant:medellinyaburra:aprovisionamientoant:rionegroycercanoant"/>
+    <file name="master_d-p_g_-maestra.css" crc="4145337924" ref="valores-occ:restriccioneshoymismoant:novedades-occ:cod-occ:horariosrecant:medellinyaburra:salida-a-zona-occ:credito-y-contado-occ:aprovisionamientoant:alto-riesgo-occ:rionegroycercanoant:trazabilidad-occ"/>
+    <file name="master_b-p_g_-maestra.css" crc="350456218" ref="trazabilidad-ant:rhorarioscosta:valores-occ:restriccioneshoymismoant:novedades-occ:novedades-ori:filiales:altoriesgo:cod-occ:valores-ori:horariosocc:recoleccioneseje:recoleccionesocc:horariosrecant:tareas:creditoycontado-ant:medellinyaburra:pueblosori:nrecolecosta:novedadesocc:comparativo:eje:novedadeseje:salida-a-zona-occ:oriente:credito-y-contado-occ:aprovisionamientoant:pueblos-ant:recoleccionescosta:trazabilidad-ori:cotizador:alto-riesgo-occ:costa:salidaeje:novedades-ant:antioquia:rhorarioeje:valores-ant:nyreceje:credyconteje:rionegroycercanoant:noticias:trazabilidad-occ:aprovieje:aprovicosta:nrecolecori:contadoycreditoori:trazaeje:valorecosta:occidente:zona-ant:valoreseje:aprovori:recoleccionesori:aprovocc:creditoycontasocosta:rhorariosori:recoleccionesant:pqrs:credycontadoocc:directriz-eye:dafiti:cotizadoreye:salidaazonaori:trazacosta:novedadescosta"/>
+    <file name="master_c-p_g_-maestra.css" crc="4227274837" ref="valores-occ:restriccioneshoymismoant:novedades-occ:filiales:cod-occ:recoleccioneseje:recoleccionesocc:horariosrecant:tareas:medellinyaburra:comparativo:eje:salida-a-zona-occ:oriente:credito-y-contado-occ:aprovisionamientoant:recoleccionescosta:cotizador:alto-riesgo-occ:costa:antioquia:rionegroycercanoant:noticias:trazabilidad-occ:occidente:recoleccionesori:recoleccionesant:pqrs:directriz-eye:dafiti:cotizadoreye"/>
+    <file name="master_reje.css" crc="3824530138" ref="rhorarioeje:nyreceje:aprovieje"/>
+    <file name="master_a-p_g_-maestra.css" crc="112722447" ref="trazabilidad-ant:rhorarioscosta:valores-occ:restriccioneshoymismoant:novedades-occ:novedades-ori:filiales:altoriesgo:cod-occ:valores-ori:horariosocc:recoleccioneseje:index:recoleccionesocc:horariosrecant:tareas:creditoycontado-ant:medellinyaburra:pueblosori:nrecolecosta:novedadesocc:comparativo:eje:novedadeseje:salida-a-zona-occ:oriente:credito-y-contado-occ:aprovisionamientoant:pueblos-ant:recoleccionescosta:trazabilidad-ori:cotizador:alto-riesgo-occ:costa:salidaeje:novedades-ant:antioquia:rhorarioeje:valores-ant:nyreceje:credyconteje:rionegroycercanoant:noticias:trazabilidad-occ:aprovieje:aprovicosta:nrecolecori:contadoycreditoori:trazaeje:valorecosta:occidente:zona-ant:valoreseje:aprovori:recoleccionesori:aprovocc:creditoycontasocosta:rhorariosori:recoleccionesant:pqrs:credycontadoocc:directriz-eye:dafiti:cotizadoreye:salidaazonaori:trazacosta:novedadescosta"/>
+    <file name="master_rcosta.css" crc="3824530138" ref="rhorarioscosta:nrecolecosta:aprovicosta"/>
+    <file name="master_oriente.css" crc="3824530138" ref="novedades-ori:valores-ori:pueblosori:trazabilidad-ori:contadoycreditoori:salidaazonaori"/>
+    <file name="trazabilidad-ant.css" crc="4002300895" ref="trazabilidad-ant"/>
+    <file name="rhorarioscosta.css" crc="166196844" ref="rhorarioscosta"/>
+    <file name="valores-occ.css" crc="18187214" ref="valores-occ"/>
+    <file name="restriccioneshoymismoant.css" crc="3863580263" ref="restriccioneshoymismoant"/>
+    <file name="novedades-occ.css" crc="4185896057" ref="novedades-occ"/>
+    <file name="novedades-ori.css" crc="3792071553" ref="novedades-ori"/>
+    <file name="filiales.css" crc="4058844444" ref="filiales"/>
+    <file name="altoriesgo.css" crc="4220864380" ref="altoriesgo"/>
+    <file name="cod-occ.css" crc="209028983" ref="cod-occ"/>
+    <file name="valores-ori.css" crc="3842204614" ref="valores-ori"/>
+    <file name="horariosocc.css" crc="517602735" ref="horariosocc"/>
+    <file name="recoleccioneseje.css" crc="4102472377" ref="recoleccioneseje"/>
+    <file name="index.css" crc="481752216" ref="index"/>
+    <file name="recoleccionesocc.css" crc="3762006116" ref="recoleccionesocc"/>
+    <file name="horariosrecant.css" crc="113446194" ref="horariosrecant"/>
+    <file name="tareas.css" crc="4196336181" ref="tareas"/>
+    <file name="creditoycontado-ant.css" crc="264888204" ref="creditoycontado-ant"/>
+    <file name="medellinyaburra.css" crc="4290537507" ref="medellinyaburra"/>
+    <file name="pueblosori.css" crc="3773760633" ref="pueblosori"/>
+    <file name="nrecolecosta.css" crc="171419695" ref="nrecolecosta"/>
+    <file name="novedadesocc.css" crc="3906852589" ref="novedadesocc"/>
+    <file name="comparativo.css" crc="3914648315" ref="comparativo"/>
+    <file name="eje.css" crc="377642901" ref="eje"/>
+    <file name="novedadeseje.css" crc="158681021" ref="novedadeseje"/>
+    <file name="salida-a-zona-occ.css" crc="435963734" ref="salida-a-zona-occ"/>
+    <file name="oriente.css" crc="4022729341" ref="oriente"/>
+    <file name="credito-y-contado-occ.css" crc="4067610703" ref="credito-y-contado-occ"/>
+    <file name="aprovisionamientoant.css" crc="346669068" ref="aprovisionamientoant"/>
+    <file name="pueblos-ant.css" crc="4040214313" ref="pueblos-ant"/>
+    <file name="recoleccionescosta.css" crc="14805771" ref="recoleccionescosta"/>
+    <file name="trazabilidad-ori.css" crc="457757998" ref="trazabilidad-ori"/>
+    <file name="cotizador.css" crc="4074453410" ref="cotizador"/>
+    <file name="alto-riesgo-occ.css" crc="3791791759" ref="alto-riesgo-occ"/>
+    <file name="costa.css" crc="3971858271" ref="costa"/>
+    <file name="salidaeje.css" crc="312323146" ref="salidaeje"/>
+    <file name="novedades-ant.css" crc="3889291864" ref="novedades-ant"/>
+    <file name="antioquia.css" crc="271086383" ref="antioquia"/>
+    <file name="rhorarioeje.css" crc="4255725375" ref="rhorarioeje"/>
+    <file name="valores-ant.css" crc="403784721" ref="valores-ant"/>
+    <file name="nyreceje.css" crc="4273973125" ref="nyreceje"/>
+    <file name="credyconteje.css" crc="4161300762" ref="credyconteje"/>
+    <file name="rionegroycercanoant.css" crc="4183493908" ref="rionegroycercanoant"/>
+    <file name="noticias.css" crc="4217699584" ref="noticias"/>
+    <file name="trazabilidad-occ.css" crc="4081730180" ref="trazabilidad-occ"/>
+    <file name="aprovieje.css" crc="4151822110" ref="aprovieje"/>
+    <file name="aprovicosta.css" crc="4171305132" ref="aprovicosta"/>
+    <file name="nrecolecori.css" crc="358916216" ref="nrecolecori"/>
+    <file name="contadoycreditoori.css" crc="234914979" ref="contadoycreditoori"/>
+    <file name="trazaeje.css" crc="170558965" ref="trazaeje"/>
+    <file name="valorecosta.css" crc="308886252" ref="valorecosta"/>
+    <file name="occidente.css" crc="3844666258" ref="occidente"/>
+    <file name="zona-ant.css" crc="4198489322" ref="zona-ant"/>
+    <file name="valoreseje.css" crc="280764035" ref="valoreseje"/>
+    <file name="aprovori.css" crc="12304786" ref="aprovori"/>
+    <file name="recoleccionesori.css" crc="3960823618" ref="recoleccionesori"/>
+    <file name="aprovocc.css" crc="3981101775" ref="aprovocc"/>
+    <file name="creditoycontasocosta.css" crc="4278765642" ref="creditoycontasocosta"/>
+    <file name="rhorariosori.css" crc="3761150361" ref="rhorariosori"/>
+    <file name="recoleccionesant.css" crc="197881296" ref="recoleccionesant"/>
+    <file name="pqrs.css" crc="161191043" ref="pqrs"/>
+    <file name="credycontadoocc.css" crc="3902765840" ref="credycontadoocc"/>
+    <file name="directriz-eye.css" crc="132077003" ref="directriz-eye"/>
+    <file name="dafiti.css" crc="4147334591" ref="dafiti"/>
+    <file name="cotizadoreye.css" crc="4070660643" ref="cotizadoreye"/>
+    <file name="salidaazonaori.css" crc="373553891" ref="salidaazonaori"/>
+    <file name="trazacosta.css" crc="4278767695" ref="trazacosta"/>
+    <file name="novedadescosta.css" crc="4289277898" ref="novedadescosta"/>
+  </folder>
+  <folder name="assets">
+    <file name="cronometro.exe" crc="489110364" seo="true" mt="1335398938000"/>
+    <file name="cdsoccidente.html" crc="3776508615" seo="true" mt="1571178899000"/>
+    <file name="cdsoriente.html" crc="399962538" seo="true" mt="1571178918000"/>
+    <file name="cdsejecafetero.html" crc="295388451" seo="true" mt="1571178866000"/>
+    <file name="cdscosta.html" crc="64971104" seo="true" mt="1571178840000"/>
+    <file name="platilla-para-convenio-credito.txt" crc="4101223736" seo="true" mt="1571343742000"/>
+    <file name="comparativosac1.html" crc="59664891" seo="true" mt="1571699350000"/>
+    <file name="cdsantioquia.html" crc="64823631" seo="true" mt="1575985905000"/>
+    <file name="gestor-de-solicitudes.xls" crc="226104553" seo="true" mt="1575918889000"/>
+    <file name="comparativorec.html" crc="193237867" seo="true" mt="1571699350000"/>
+    <file name="penitenciaria.html" crc="486096113" seo="true" mt="1571699350000"/>
+    <file name="pasoapaso.png" crc="4121880361" seo="true" mt="1575924813000"/>
+    <file name="logistica-inversa-a-cds-dafiti.pdf" crc="316301251" seo="true" mt="1575991732000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+    <file name="museutils.js" crc="340535759" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+    <file name="whatinput.js" crc="86476730" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+    <file name="webpro.js" crc="4059564322" ref="index:creditoycontado-ant:trazabilidad-ant:zona-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:novedades-occ:trazabilidad-ori:restriccioneshoymismoant:novedadesocc:trazaeje:novedadeseje:credyconteje:salidaeje:novedades-ori:salidaazonaori:contadoycreditoori:trazacosta:novedadescosta:credycontadoocc:nyreceje:nrecolecori:nrecolecosta:directriz-eye:pqrs:noticias:creditoycontasocosta:dafiti"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:creditoycontado-ant:trazabilidad-ant:zona-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:novedades-occ:trazabilidad-ori:restriccioneshoymismoant:novedadesocc:trazaeje:novedadeseje:credyconteje:salidaeje:novedades-ori:salidaazonaori:contadoycreditoori:trazacosta:novedadescosta:credycontadoocc:nyreceje:nrecolecori:nrecolecosta:directriz-eye:pqrs:noticias:creditoycontasocosta:dafiti"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:creditoycontado-ant:trazabilidad-ant:zona-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:novedades-occ:trazabilidad-ori:restriccioneshoymismoant:novedadesocc:trazaeje:novedadeseje:credyconteje:salidaeje:novedades-ori:salidaazonaori:contadoycreditoori:trazacosta:novedadescosta:credycontadoocc:nyreceje:nrecolecori:nrecolecosta:directriz-eye:pqrs:noticias:creditoycontasocosta:dafiti"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:creditoycontado-ant:trazabilidad-ant:zona-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:novedades-occ:trazabilidad-ori:restriccioneshoymismoant:novedadesocc:trazaeje:novedadeseje:credyconteje:salidaeje:novedades-ori:salidaazonaori:contadoycreditoori:trazacosta:novedadescosta:credycontadoocc:nyreceje:nrecolecori:nrecolecosta:directriz-eye:pqrs:noticias:creditoycontasocosta:dafiti"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+    <file name="require.js" crc="7928878" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4112261122" ref="index"/>
+    <file name="relleno.jpg" crc="3860685489" seo="true" ref="index:antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti">
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="cotizador" alt=""/>
+      <caption webpage="valoreseje" alt=""/>
+      <caption webpage="horariosocc" alt=""/>
+      <caption webpage="aprovieje" alt=""/>
+      <caption webpage="pueblos-ant" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+      <caption webpage="novedadesocc" alt=""/>
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="novedades-occ" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="pueblosori" alt=""/>
+      <caption webpage="rhorarioeje" alt=""/>
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="creditoycontasocosta" alt=""/>
+      <caption webpage="rionegroycercanoant" alt=""/>
+      <caption webpage="cod-occ" alt=""/>
+      <caption webpage="tareas" alt=""/>
+      <caption webpage="filiales" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+      <caption webpage="altoriesgo" alt=""/>
+      <caption webpage="novedadeseje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+      <caption webpage="medellinyaburra" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="comparativo" alt=""/>
+      <caption webpage="aprovori" alt=""/>
+      <caption webpage="contadoycreditoori" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="creditoycontado-ant" alt=""/>
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="valorecosta" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="credito-y-contado-occ" alt=""/>
+      <caption webpage="credyconteje" alt=""/>
+      <caption webpage="directriz-eye" alt=""/>
+      <caption webpage="valores-ant" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="recoleccionescosta" alt=""/>
+      <caption webpage="cotizadoreye" alt=""/>
+      <caption webpage="pqrs" alt=""/>
+      <caption webpage="valores-occ" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="valores-ori" alt=""/>
+      <caption webpage="recoleccioneseje" alt=""/>
+      <caption webpage="restriccioneshoymismoant" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="alto-riesgo-occ" alt=""/>
+      <caption webpage="rhorariosori" alt=""/>
+      <caption webpage="aprovocc" alt=""/>
+      <caption webpage="novedades-ori" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="nrecolecosta" alt=""/>
+      <caption webpage="horariosrecant" alt=""/>
+      <caption webpage="dafiti" alt=""/>
+      <caption webpage="recoleccionesori" alt=""/>
+      <caption webpage="rhorarioscosta" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="novedades-ant" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+      <caption webpage="credycontadoocc" alt=""/>
+      <caption webpage="aprovicosta" alt=""/>
+      <caption webpage="nyreceje" alt=""/>
+      <caption webpage="aprovisionamientoant" alt=""/>
+      <caption webpage="nrecolecori" alt=""/>
+    </file>
+    <file name="sr_servi.png" crc="4114435766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3863823014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ayuda.png" crc="318108656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2645.png" crc="3990647929" ref="antioquia"/>
+    <file name="u2645-r.png" crc="288922647" ref="antioquia"/>
+    <file name="bt inicio.png" crc="3772329057" seo="true" ref="antioquia:occidente:oriente:eje:costa:pueblos-ant:tareas:creditoycontado-ant:trazabilidad-ant:zona-ant:filiales:valores-ant:novedades-ant:trazabilidad-occ:credito-y-contado-occ:salida-a-zona-occ:alto-riesgo-occ:valores-occ:novedades-occ:cod-occ:trazabilidad-ori:cotizadoreye:recoleccionesant:horariosrecant:restriccioneshoymismoant:rionegroycercanoant:aprovisionamientoant:medellinyaburra:recoleccionesocc:horariosocc:novedadesocc:aprovocc:trazaeje:novedadeseje:credyconteje:valoreseje:salidaeje:novedades-ori:valores-ori:pueblosori:salidaazonaori:contadoycreditoori:trazacosta:altoriesgo:valorecosta:novedadescosta:credycontadoocc:recoleccionesori:recoleccioneseje:recoleccionescosta:nyreceje:aprovieje:nrecolecori:aprovori:rhorariosori:rhorarioeje:nrecolecosta:aprovicosta:rhorarioscosta:directriz-eye:pqrs:noticias:comparativo:creditoycontasocosta:cotizador:dafiti">
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="cotizador" alt=""/>
+      <caption webpage="valoreseje" alt=""/>
+      <caption webpage="horariosocc" alt=""/>
+      <caption webpage="aprovieje" alt=""/>
+      <caption webpage="pueblos-ant" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+      <caption webpage="novedadesocc" alt=""/>
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="novedades-occ" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="pueblosori" alt=""/>
+      <caption webpage="rhorarioeje" alt=""/>
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="creditoycontasocosta" alt=""/>
+      <caption webpage="rionegroycercanoant" alt=""/>
+      <caption webpage="cod-occ" alt=""/>
+      <caption webpage="tareas" alt=""/>
+      <caption webpage="filiales" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+      <caption webpage="altoriesgo" alt=""/>
+      <caption webpage="novedadeseje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+      <caption webpage="medellinyaburra" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="comparativo" alt=""/>
+      <caption webpage="aprovori" alt=""/>
+      <caption webpage="contadoycreditoori" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="creditoycontado-ant" alt=""/>
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="valorecosta" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="credito-y-contado-occ" alt=""/>
+      <caption webpage="credyconteje" alt=""/>
+      <caption webpage="directriz-eye" alt=""/>
+      <caption webpage="valores-ant" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="recoleccionescosta" alt=""/>
+      <caption webpage="cotizadoreye" alt=""/>
+      <caption webpage="pqrs" alt=""/>
+      <caption webpage="valores-occ" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="valores-ori" alt=""/>
+      <caption webpage="recoleccioneseje" alt=""/>
+      <caption webpage="restriccioneshoymismoant" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="alto-riesgo-occ" alt=""/>
+      <caption webpage="rhorariosori" alt=""/>
+      <caption webpage="aprovocc" alt=""/>
+      <caption webpage="novedades-ori" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="nrecolecosta" alt=""/>
+      <caption webpage="horariosrecant" alt=""/>
+      <caption webpage="dafiti" alt=""/>
+      <caption webpage="recoleccionesori" alt=""/>
+      <caption webpage="rhorarioscosta" alt=""/>
+      <caption webpage="novedades-ant" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+      <caption webpage="credycontadoocc" alt=""/>
+      <caption webpage="aprovicosta" alt=""/>
+      <caption webpage="nyreceje" alt=""/>
+      <caption webpage="aprovisionamientoant" alt=""/>
+      <caption webpage="nrecolecori" alt=""/>
+    </file>
+    <file name="clipboard-verification-symbol.png" crc="227247537" seo="true" ref="antioquia:occidente:oriente:eje:costa:recoleccionesant:recoleccionesocc:recoleccionesori:recoleccioneseje:recoleccionescosta">
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+      <caption webpage="recoleccionesori" alt=""/>
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="recoleccioneseje" alt=""/>
+      <caption webpage="recoleccionescosta" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+    </file>
+    <file name="logistics-delivery-truck-and-clock.png" crc="534503390" seo="true" ref="antioquia:occidente:oriente:eje:recoleccionesant:recoleccionesocc:recoleccionesori:recoleccioneseje:recoleccionescosta:comparativo">
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="comparativo" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="recoleccionesori" alt=""/>
+      <caption webpage="recoleccionesori" alt=""/>
+      <caption webpage="recoleccionescosta" alt=""/>
+      <caption webpage="recoleccionescosta" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+      <caption webpage="recoleccioneseje" alt=""/>
+      <caption webpage="recoleccioneseje" alt=""/>
+    </file>
+    <file name="barscode-with-a-magnifier-business-symbol.png" crc="3932519718" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="boxes-piles-stored-inside-a-garage-for-delivery.png" crc="4040106867" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="delivery-box-on-a-hand.png" crc="3881423477" seo="true" ref="antioquia:occidente:oriente:eje:costa:comparativo">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="comparativo" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="delivery-packaging-box.png" crc="422922350" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="call-center-worker-with-headset.png" crc="59420492" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="24-hours-delivery.png" crc="170315667" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="telephone-1.png" crc="3946089421" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="delivery-pack-security-symbol-with-a-shield.png" crc="72613092" seo="true" ref="antioquia:occidente:oriente:eje:costa">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="eje" alt=""/>
+    </file>
+    <file name="delivery-truck-with-packages-behind.png" crc="217917315" seo="true" ref="antioquia:occidente:oriente:costa:recoleccionesant:recoleccionesocc">
+      <caption webpage="antioquia" alt=""/>
+      <caption webpage="occidente" alt=""/>
+      <caption webpage="costa" alt=""/>
+      <caption webpage="oriente" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="recoleccionesant" alt=""/>
+      <caption webpage="recoleccionesocc" alt=""/>
+    </file>
+    <file name="u3306.png" crc="3969250064" ref="occidente"/>
+    <file name="u3306-r.png" crc="255274107" ref="occidente"/>
+    <file name="delivery-worker-giving-a-box-to-a-receiver.png" crc="4238231095" seo="true" ref="occidente">
+      <caption webpage="occidente" alt=""/>
+    </file>
+    <file name="u2997.png" crc="3990647929" ref="oriente"/>
+    <file name="u2997-r.png" crc="288922647" ref="oriente"/>
+    <file name="u2844.png" crc="3990647929" ref="eje"/>
+    <file name="u2844-r.png" crc="288922647" ref="eje"/>
+    <file name="u3150.png" crc="3990647929" ref="costa"/>
+    <file name="u3150-r.png" crc="288922647" ref="costa"/>
+    <file name="relleno-crop-u19589.jpg" crc="3883640334" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19591.jpg" crc="4031927031" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19593.jpg" crc="3814293403" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19595.jpg" crc="3884497111" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19597.jpg" crc="3875810461" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19599.jpg" crc="4071156139" seo="true" ref="pueblos-ant">
+      <caption webpage="pueblos-ant" alt=""/>
+    </file>
+    <file name="relleno-crop-u19402.jpg" crc="3883640334" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="relleno-crop-u19409.jpg" crc="4031927031" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="relleno-crop-u19416.jpg" crc="3814293403" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="relleno-crop-u19423.jpg" crc="3884497111" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="relleno-crop-u19430.jpg" crc="3875810461" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="relleno-crop-u19437.jpg" crc="4071156139" seo="true" ref="tareas">
+      <caption webpage="tareas" alt=""/>
+    </file>
+    <file name="credit.jpg" crc="4136290542" seo="true" ref="creditoycontado-ant:credito-y-contado-occ:credyconteje:contadoycreditoori">
+      <caption webpage="creditoycontado-ant" alt=""/>
+      <caption webpage="contadoycreditoori" alt=""/>
+      <caption webpage="credito-y-contado-occ" alt=""/>
+      <caption webpage="credyconteje" alt=""/>
+    </file>
+    <file name="siniestro.jpg" crc="3984474873" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="sini.jpg" crc="3969836652" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="movsini.jpg" crc="4268584257" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="masivo.jpg" crc="469960886" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="cod.jpg" crc="4077804651" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazaeje">
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+    </file>
+    <file name="judicial.jpg" crc="2241778" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="judicialsello-u7718-u7718.png" crc="4019736968" ref="trazabilidad-ant"/>
+    <file name="generada.jpg" crc="4087152478" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="manifiesto.jpg" crc="231354421" seo="true" ref="trazabilidad-ant:trazacosta">
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+    </file>
+    <file name="tablas.jpg" crc="4194983822" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="carta.jpg" crc="3993619590" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="cc1.jpg" crc="68928775" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="cc2.jpg" crc="4249038242" seo="true" ref="trazabilidad-ant:trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazabilidad-ant" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="cuadras.png" crc="4087509542" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="medic.png" crc="4279463014" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="licitacion.png" crc="74120020" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="notificacion.jpg" crc="344643406" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="noconocen.jpg" crc="378235714" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="noreciba.jpg" crc="3860478156" seo="true" ref="zona-ant:salida-a-zona-occ:salidaeje:salidaazonaori:novedadescosta">
+      <caption webpage="salidaazonaori" alt=""/>
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+      <caption webpage="salidaeje" alt=""/>
+      <caption webpage="novedadescosta" alt=""/>
+    </file>
+    <file name="aforo.jpg" crc="3887512683" seo="true" ref="zona-ant:salida-a-zona-occ">
+      <caption webpage="salida-a-zona-occ" alt=""/>
+      <caption webpage="zona-ant" alt=""/>
+    </file>
+    <file name="judicialsello-u7718-u9534.png" crc="4019736968" ref="trazabilidad-occ"/>
+    <file name="oficina.png" crc="4061223288" seo="true" ref="trazabilidad-occ:trazabilidad-ori:trazaeje:trazacosta">
+      <caption webpage="trazabilidad-ori" alt=""/>
+      <caption webpage="trazabilidad-occ" alt=""/>
+      <caption webpage="trazacosta" alt=""/>
+      <caption webpage="trazaeje" alt=""/>
+    </file>
+    <file name="judicialsello-u7718-u12253.png" crc="4019736968" ref="trazabilidad-ori"/>
+    <file name="judicialsello-u7718-u13078.png" crc="4019736968" ref="trazaeje"/>
+    <file name="judicialsello-u7718-u13805.png" crc="4019736968" ref="trazacosta"/>
+  </folder>
+  <file name="index.php" crc="455474120" seo="true" mt="1582753673119" redirect="true"/>
+  <file name="antioquia.html" crc="4129671530" seo="true" mt="1582743411597" redirect="true"/>
+  <file name="occidente.html" crc="3762445988" seo="true" mt="1582743411598" redirect="true"/>
+  <file name="oriente.html" crc="467895143" seo="true" mt="1582743411600" redirect="true"/>
+  <file name="eje.html" crc="4185205103" seo="true" mt="1582743411601" redirect="true"/>
+  <file name="costa.html" crc="256165373" seo="true" mt="1582743411602" redirect="true"/>
+  <file name="pueblos-ant.html" crc="427198976" seo="true" mt="1582743424972" redirect="true"/>
+  <file name="tareas.php" crc="111048125" seo="true" mt="1582743424972" redirect="true"/>
+  <file name="creditoycontado-ant.html" crc="3794375112" seo="true" mt="1582743411604" redirect="true"/>
+  <file name="trazabilidad-ant.html" crc="3826593048" seo="true" mt="1582743967871" redirect="true"/>
+  <file name="zona-ant.html" crc="3930938828" seo="true" mt="1582743411606" redirect="true"/>
+  <file name="filiales.html" crc="4212683992" seo="true" mt="1582743411607" redirect="true"/>
+  <file name="valores-ant.html" crc="4282960814" seo="true" mt="1582743411608" redirect="true"/>
+  <file name="novedades-ant.html" crc="443724824" seo="true" mt="1582743411609" redirect="true"/>
+  <file name="trazabilidad-occ.html" crc="363089517" seo="true" mt="1582743411468" redirect="true"/>
+  <file name="credito-y-contado-occ.html" crc="344825398" seo="true" mt="1582743411468" redirect="true"/>
+  <file name="salida-a-zona-occ.html" crc="141333109" seo="true" mt="1582743411468" redirect="true"/>
+  <file name="alto-riesgo-occ.html" crc="138373553" seo="true" mt="1582743411468" redirect="true"/>
+  <file name="valores-occ.html" crc="513062353" seo="true" mt="1582743411609" redirect="true"/>
+  <file name="novedades-occ.html" crc="4104883865" seo="true" mt="1582743411468" redirect="true"/>
+  <file name="cod-occ.html" crc="3761379367" seo="true" mt="1582743411610" redirect="true"/>
+  <file name="trazabilidad-ori.html" crc="483103573" seo="true" mt="1582743411490" redirect="true"/>
+  <file name="cotizadoreye.html" crc="4228351614" seo="true" mt="1582743411611" redirect="true"/>
+  <file name="recoleccionesant.html" crc="254976092" seo="true" mt="1582743411612" redirect="true"/>
+  <file name="horariosrecant.html" crc="4124009351" seo="true" mt="1582743411613" redirect="true"/>
+  <file name="restriccioneshoymismoant.html" crc="400660668" seo="true" mt="1582743411613" redirect="true"/>
+  <file name="rionegroycercanoant.html" crc="3778449437" seo="true" mt="1582743411614" redirect="true"/>
+  <file name="aprovisionamientoant.html" crc="4070467865" seo="true" mt="1582743411615" redirect="true"/>
+  <file name="medellinyaburra.html" crc="4098362648" seo="true" mt="1582743411616" redirect="true"/>
+  <file name="recoleccionesocc.html" crc="458924558" seo="true" mt="1582743411617" redirect="true"/>
+  <file name="horariosocc.html" crc="270869062" seo="true" mt="1582743411617" redirect="true"/>
+  <file name="novedadesocc.html" crc="332773226" seo="true" mt="1582743411485" redirect="true"/>
+  <file name="aprovocc.html" crc="4013061121" seo="true" mt="1582743411618" redirect="true"/>
+  <file name="trazaeje.html" crc="13537151" seo="true" mt="1582743411496" redirect="true"/>
+  <file name="novedadeseje.html" crc="4063901435" seo="true" mt="1582743411496" redirect="true"/>
+  <file name="credyconteje.html" crc="82022856" seo="true" mt="1582743411496" redirect="true"/>
+  <file name="valoreseje.html" crc="4073950118" seo="true" mt="1582743411652" redirect="true"/>
+  <file name="salidaeje.html" crc="4162346457" seo="true" mt="1582743411496" redirect="true"/>
+  <file name="novedades-ori.html" crc="86107931" seo="true" mt="1582743411490" redirect="true"/>
+  <file name="valores-ori.html" crc="66269233" seo="true" mt="1582743411653" redirect="true"/>
+  <file name="pueblosori.html" crc="502981485" seo="true" mt="1582743411490" redirect="true"/>
+  <file name="salidaazonaori.html" crc="222236292" seo="true" mt="1582743411490" redirect="true"/>
+  <file name="contadoycreditoori.html" crc="345338698" seo="true" mt="1582743411490" redirect="true"/>
+  <file name="trazacosta.html" crc="4272829301" seo="true" mt="1582743411501" redirect="true"/>
+  <file name="altoriesgo.html" crc="4110006341" seo="true" mt="1582743424972" redirect="true"/>
+  <file name="valorecosta.html" crc="3909303032" seo="true" mt="1582743411654" redirect="true"/>
+  <file name="novedadescosta.html" crc="16131333" seo="true" mt="1582743411501" redirect="true"/>
+  <file name="credycontadoocc.html" crc="404558977" seo="true" mt="1582743411485" redirect="true"/>
+  <file name="recoleccionesori.html" crc="65878447" seo="true" mt="1582743411655" redirect="true"/>
+  <file name="recoleccioneseje.html" crc="205710981" seo="true" mt="1582743411655" redirect="true"/>
+  <file name="recoleccionescosta.html" crc="103404077" seo="true" mt="1582743411656" redirect="true"/>
+  <file name="nyreceje.html" crc="4057799914" seo="true" mt="1582743411510" redirect="true"/>
+  <file name="aprovieje.html" crc="4178514531" seo="true" mt="1582743411656" redirect="true"/>
+  <file name="nrecolecori.html" crc="3867651470" seo="true" mt="1582743411506" redirect="true"/>
+  <file name="aprovori.html" crc="127960206" seo="true" mt="1582743411657" redirect="true"/>
+  <file name="rhorariosori.html" crc="284074944" seo="true" mt="1582743411659" redirect="true"/>
+  <file name="rhorarioeje.html" crc="4179403226" seo="true" mt="1582743411659" redirect="true"/>
+  <file name="nrecolecosta.html" crc="3785579080" seo="true" mt="1582743411586" redirect="true"/>
+  <file name="aprovicosta.html" crc="4101874791" seo="true" mt="1582743411660" redirect="true"/>
+  <file name="rhorarioscosta.html" crc="155320946" seo="true" mt="1582743411661" redirect="true"/>
+  <file name="directriz-eye.html" crc="137594741" seo="true" mt="1582743424974" redirect="true"/>
+  <file name="pqrs.html" crc="442545132" seo="true" mt="1582743411662" redirect="true"/>
+  <file name="noticias.html" crc="4040367425" seo="true" mt="1582744461198" redirect="true"/>
+  <file name="comparativo.html" crc="196948156" seo="true" mt="1582743411663" redirect="true"/>
+  <file name="creditoycontasocosta.html" crc="380189002" seo="true" mt="1582743411501" redirect="true"/>
+  <file name="cotizador.html" crc="4203655298" seo="true" mt="1582743411664" redirect="true"/>
+  <file name="dafiti.html" crc="532360050" seo="true" mt="1582743411665" redirect="true"/>
+</manifest>
